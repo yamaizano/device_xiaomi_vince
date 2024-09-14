@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_vince.mk
+    $(LOCAL_DIR)/xdroid_vince.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_vince-user \
-    lineage_vince-userdebug \
-    lineage_vince-eng
+    xdroid_vince-user \
+    xdroid_vince-userdebug \
+    xdroid_vince-eng
